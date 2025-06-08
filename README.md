@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Bluesky](Bluesky.gif)](https://bsky.app/profile/meely.me)
+[![Bluesky](bluesky.gif)](https://bsky.app/profile/meely.me)
 
 
 <!--
