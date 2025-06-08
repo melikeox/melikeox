@@ -2,8 +2,8 @@
 
 ---
 
-[![Bluesky](bluesky.gif)](https://bsky.app/profile/meely.me)
-social link stuffs (bsky)
+[![Bluesky](bluesky.gif) Me on Bluesky](https://bsky.app/profile/meely.me)
+
 
 -
 -
