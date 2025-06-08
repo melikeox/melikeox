@@ -1,6 +1,6 @@
 ## alo
 
----
+
 
 [![Bluesky](bluesky.gif)](https://bsky.app/profile/meely.me)
 social link stuffs (bsky)
@@ -12,7 +12,7 @@ social link stuffs (bsky)
 -
 -
 
----
+
 
 so many ideas, so little time
 
