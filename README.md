@@ -2,7 +2,7 @@
 
 ---
 
-[![Bluesky](bluesky.gif) | Me on Bluesky](https://bsky.app/profile/meely.me)
+[![Bluesky](bluesky.gif) me on bsky ](https://bsky.app/profile/meely.me)
 
 
 
