@@ -2,7 +2,12 @@
 
 ---
 
-<p><a href="https://bsky.app/profile/meely.me"><img src="bluesky.gif" alt="Bluesky" /> Me on Bluesky</a></p>
+<a href="https://bsky.app/profile/meely.me">
+  <table><tr>
+    <td><img src="bluesky.gif" alt="Bluesky" /></td>
+    <td>Me on Bluesky</td>
+  </tr></table>
+</a>
 
 
 -
