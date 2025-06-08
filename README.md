@@ -1,6 +1,10 @@
 ## Hi there 👋
 
+---
+
 [![Bluesky](bluesky.gif)](https://bsky.app/profile/meely.me)
+
+---
 
 
 <!--
