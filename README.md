@@ -3,7 +3,7 @@
 ---
 
 [![Bluesky](bluesky.gif)](https://bsky.app/profile/meely.me)
-social link stuffs
+social link stuffs bsky
 
 ---
 
