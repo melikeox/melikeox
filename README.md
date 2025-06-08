@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-https://bsky.app/profile/meely.me
+[![Bluesky](images/Bluesky.png)](https://bsky.app/profile/meely.me)
+
 
 <!--
 **melikeox/melikeox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
