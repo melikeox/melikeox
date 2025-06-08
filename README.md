@@ -2,7 +2,7 @@
 
 ---
 
-[![Bluesky](bluesky.gif) Me on Bluesky](https://bsky.app/profile/meely.me)
+<p><a href="https://bsky.app/profile/meely.me"><img src="bluesky.gif" alt="Bluesky" /> Me on Bluesky</a></p>
 
 
 -
