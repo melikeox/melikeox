@@ -25,7 +25,7 @@ so many ideas, so little time
 
 ---
 
-[![worlds/shaders](bluesky.gif) world/shaders ](https://meely-portfolio.chibbez.workers.dev/worlds)
+[![worlds/shaders](globe-1x.webp) world/shaders ](https://meely-portfolio.chibbez.workers.dev/worlds)
 
 
 ---
