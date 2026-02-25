@@ -2,20 +2,33 @@
 
 ---
 
-[![Bluesky](bluesky.gif) me on bskyyyy ](https://bsky.app/profile/meely.me)
+[![X (twitter)](bluesky.gif) me on X (twitter) ](https://x.com/meelyhun)
 
 
 
 -
--
-- vr stuff
--
--
+- character design
+- environments
+- shaders
 -
 
 ---
 
 so many ideas, so little time
+
+---
+
+[![Avatars](bluesky.gif) Avatar Coms ](https://meely-portfolio.chibbez.workers.dev/)
+
+
+---
+
+---
+
+[![worlds/shaders](bluesky.gif) world/shaders ](https://meely-portfolio.chibbez.workers.dev/worlds)
+
+
+---
 
 
 <!--
