@@ -18,7 +18,7 @@ so many ideas, so little time
 
 ---
 
-[![Avatars](bluesky.gif) Avatar Coms ](https://meely-portfolio.chibbez.workers.dev/)
+[![Avatars](hamsterPeriodt-2x.webp) Avatar Coms ](https://meely-portfolio.chibbez.workers.dev/)
 
 
 ---
